@@ -1,0 +1,8 @@
+.Space {
+  width: 100px;
+  height: 200px;
+  background: green;
+  border-style: solid;
+  border-radius: 100px;
+  border-width: 5px;
+}
